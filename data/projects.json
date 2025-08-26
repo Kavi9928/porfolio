@@ -1,0 +1,88 @@
+[
+	{
+		"title": "News Blog System — WordPress",
+		"description": "A live WordPress-powered news blog for Sri Lankan community content.",
+		"tags": ["WordPress", "CMS"],
+		"image": "assets/img/pro2.png",
+		"demo": "https://srilancan.ca/"
+	},
+	{
+		"title": "Event Management Website — WordPress",
+		"description": "Live event listings, details, and posts for Sri Lankan events in Canada.",
+		"tags": ["WordPress", "Events"],
+		"image": "assets/img/pro1.png",
+		"demo": "https://srilancanevents.ca/"
+	},
+	{
+		"title": "Bordim — PHP",
+		"description": "Local project running on XAMPP.",
+		"tags": ["PHP", "MySQL"],
+		"image": "assets/img/pro3.png",
+		"demo": "/bordim/"
+	},
+	{
+		"title": "Blood Donate — PHP",
+		"description": "Blood donation web app with donor registration and requests.",
+		"tags": ["PHP", "MySQL"],
+		"image": "assets/img/pro4.png",
+		"demo": "/Blood_Donate/",
+		"source": "https://github.com/kavi9928/Blood-Donate"
+	},
+	{
+		"title": "Movie Rental Web — HTML/PHP",
+		"description": "Movie rental site with listings, categories, and rental flows.",
+		"tags": ["HTML", "PHP"],
+		"image": "assets/img/pro5.png",
+		"demo": "/Movie_Rental_Web/",
+		"source": "https://github.com/kavi9928/Movie-Rental-Web"
+	}
+,
+	{
+		"title": "Healthcare App UI — Figma",
+		"description": "End-to-end UI/UX concept with flows, wireframes, and polished UI.",
+		"tags": ["UI/UX", "Figma", "Prototype"],
+		"image": "assets/img/pro6.png",
+		"figma": "https://figma.com/design/2XU43j0RhUVv8xXGqOErWD/Healthcare?node-id=614082-552",
+		"caseStudy": "https://www.notion.so/"
+	}
+,
+	{
+		"title": "Bodima.lk UI — Figma",
+		"description": "Accommodation marketplace UI with search, listing, and booking flows.",
+		"tags": ["UI/UX", "Figma", "Prototype"],
+		"image": "assets/img/pro7.png",
+		"figma": "https://www.figma.com/design/e98QnrxoBHpuXtBbK9HjxV/Bodima.lk?node-id=0-1&p=f&t=aBlHSPDoSvC9Yfbr-0"
+	},
+	{
+		"title": "P4 UI — Figma",
+		"description": "UI exploration with interactive prototype.",
+		"tags": ["UI/UX", "Figma"],
+		"image": "assets/img/pro8.png",
+		"figma": "https://figma.com/design/KYETyMmpP88383Fk8qDJmg/P4?t=CH9DGtIMErN8dZbU-0"
+	}
+,
+	{
+		"title": "EventHub — Event booking & management UI",
+		"description": "End-to-end event booking flows: discovery, tickets, wallet, and profile.",
+		"tags": ["UI/UX", "Figma", "Prototype"],
+		"image": "assets/img/pro9.png",
+		"figma": "https://www.figma.com/design/Acv6G35qHM7h9RxZAz1rqw/EventHub---event-booking-and-management-app?node-id=0-1&p=f&t=Waf2qMma9jKuS9Ce-0"
+	}
+,
+	{
+		"title": "Fitness Track App — Figma",
+		"description": "Mobile fitness tracking UI with goals, workouts, and progress views.",
+		"tags": ["UI/UX", "Figma", "Mobile"],
+		"image": "assets/img/pro10.png",
+		"figma": "https://www.figma.com/design/fgO0xpEhA51xrfqoYhLNKS/FITNESS-Track-App?t=Waf2qMma9jKuS9Ce-0"
+	}
+,
+	{
+		"title": "Hospital Appointment — Figma",
+		"description": "Appointment booking UI with doctor discovery, scheduling, and records.",
+		"tags": ["UI/UX", "Figma", "Healthcare"],
+		"image": "assets/img/pro11.png",
+		"figma": "https://www.figma.com/design/n0MOkwqUUgAJtidhkeolio/Hospital-Appointment?t=Waf2qMma9jKuS9Ce-0"
+	}
+]
+
