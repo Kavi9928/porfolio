@@ -18,6 +18,7 @@
 		"description": "Local project running on XAMPP.",
 		"tags": ["PHP", "MySQL"],
 		"image": "assets/img/pro3.png",
+		"demo": "/bordim/",
 		"source": "https://github.com/kavi9928/bordim"
 	},
 	{
